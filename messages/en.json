@@ -1,0 +1,212 @@
+{
+  "nav": {
+    "home": "Home",
+    "planets": "Planets",
+    "tripTimes": "Trip Times",
+    "vote": "Vote",
+    "blastOff": "Blast Off!"
+  },
+  "hero": {
+    "heading": "🚀 Blast off!",
+    "body": "Welcome to Planet Hop! Buckle up — we're going on the biggest adventure ever. We're flying all the way through our solar system, visiting every single planet! Are you ready? Let's go! 🌟",
+    "cta": "Start the trip!",
+    "badge": "8 Planets. 1 Epic Journey.",
+    "titleLine1": "Blast off!",
+    "titleLine2": "Explore the Solar System",
+    "subtitle": "Hop from Mercury to Neptune and discover mind-blowing facts about every planet in our cosmic neighbourhood.",
+    "ctaPrimary": "Blast off!",
+    "ctaSecondary": "How long is the trip?",
+    "scrollHint": "Scroll to explore"
+  },
+  "planets": {
+    "heading": "Meet the 8 Planets! 🪐",
+    "body": "Our solar system has eight amazing planets. Each one is totally different and super cool. Scroll down to meet them all!",
+    "badge": "All 8 Planets",
+    "title": "Your Planetary Pit Stops",
+    "subtitle": "Every planet in our solar system has something jaw-dropping to offer. Tap a card to learn more about each world."
+  },
+  "planetsList": [
+    {
+      "name": "Mercury",
+      "emoji": "🪨",
+      "size": "About 0.38× the size of Earth",
+      "fact": "Mercury has no air at all, so it gets super hot in the day (430°C!) and freezing cold at night (-180°C!) — all in one day!",
+      "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/7da0aaee38d0412cb4bb06e8041d18ab.png",
+      "color": "#b5b5b5"
+    },
+    {
+      "name": "Venus",
+      "emoji": "☁️",
+      "size": "About 0.95× the size of Earth",
+      "fact": "Venus spins backwards compared to most planets, so the Sun rises in the west there — how weird is that?!",
+      "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/c46ef0103ff840b18a5214d0ccb98bd0.png",
+      "color": "#e8c97a"
+    },
+    {
+      "name": "Earth",
+      "emoji": "🌍",
+      "size": "1× (that's us!)",
+      "fact": "Earth is the only planet we know of that has living things on it — including YOU! Pretty special, right?",
+      "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/118f32a1e36b408ab1a5fa733446f5b1.png",
+      "color": "#4a9eff"
+    },
+    {
+      "name": "Mars",
+      "emoji": "🔴",
+      "size": "About 0.53× the size of Earth",
+      "fact": "Mars has the tallest volcano in the whole solar system — Olympus Mons is three times taller than Mount Everest!",
+      "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/bfce298cc9a44a1f816675b755a95ab9.png",
+      "color": "#e05c3a"
+    },
+    {
+      "name": "Jupiter",
+      "emoji": "🌀",
+      "size": "About 11× the size of Earth",
+      "fact": "Jupiter's Great Red Spot is a giant storm that has been spinning for over 350 years — it's bigger than the whole Earth!",
+      "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d139909fa2744fd7abee4baf6c34ffc7.png",
+      "color": "#c8a87a"
+    },
+    {
+      "name": "Saturn",
+      "emoji": "💍",
+      "size": "About 9× the size of Earth",
+      "fact": "Saturn's rings are made of billions of chunks of ice and rock, and they stretch out 282,000 km — but they're super thin, like a piece of paper!",
+      "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/e419fcaf7a2a450caec12bbea4564f6c.png",
+      "color": "#e8d5a0"
+    },
+    {
+      "name": "Uranus",
+      "emoji": "🔵",
+      "size": "About 4× the size of Earth",
+      "fact": "Uranus spins on its side, like a rolling ball! Scientists think a giant rock crashed into it a long, long time ago.",
+      "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/afd2e992dac64d1fbb3336be032f5038.png",
+      "color": "#7de8e8"
+    },
+    {
+      "name": "Neptune",
+      "emoji": "🌊",
+      "size": "About 3.9× the size of Earth",
+      "fact": "Neptune has the strongest winds in the solar system — they blow faster than 2,000 km per hour! That's way faster than any storm on Earth!",
+      "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/bdc5d884faba48ccb9c659f6027a2365.png",
+      "color": "#4a6fff"
+    }
+  ],
+  "tripDuration": {
+    "heading": "How long would the trip take? ⏱️",
+    "body": "Imagine you could hop on a rocket right now! Here's how long it would take to fly to each planet from Earth. These are real numbers — space is REALLY big! 🤯"
+  },
+  "tripList": [
+    {
+      "planet": "Mercury",
+      "duration": "~147 days",
+      "note": "that's nearly 5 months!",
+      "emoji": "🚀"
+    },
+    {
+      "planet": "Venus",
+      "duration": "~97 days",
+      "note": "just over 3 months!",
+      "emoji": "🚀"
+    },
+    {
+      "planet": "Mars",
+      "duration": "~7 months",
+      "note": "real rockets have already gone there!",
+      "emoji": "🚀"
+    },
+    {
+      "planet": "Jupiter",
+      "duration": "~2 years",
+      "note": "you'd need lots of snacks!",
+      "emoji": "🚀"
+    },
+    {
+      "planet": "Saturn",
+      "duration": "~3 years",
+      "note": "you'd grow a whole lot taller!",
+      "emoji": "🚀"
+    },
+    {
+      "planet": "Uranus",
+      "duration": "~9.5 years",
+      "note": "you might finish school by the time you arrive!",
+      "emoji": "🚀"
+    },
+    {
+      "planet": "Neptune",
+      "duration": "~12 years",
+      "note": "that's the longest trip of all — wow!",
+      "emoji": "🚀"
+    }
+  ],
+  "vote": {
+    "heading": "Pick your favourite planet! 🗳️",
+    "body": "Which planet is your favourite? Tap the button next to your pick and see which planet everyone loves the most! My favourite is Saturn because the rings look so cool. What's yours? 😄",
+    "cta": "Vote now!",
+    "voted": "You voted for",
+    "changeVote": "Change vote",
+    "totalVotes": "total votes",
+    "badge": "Community Poll",
+    "title": "Pick Your Favourite Planet",
+    "subtitle": "If you could visit any planet in the solar system, which one would you choose? Cast your vote below!",
+    "yourChoice": "Your pick!",
+    "totalLabel": "Total votes so far:",
+    "totalSuffix": "explorers have voted."
+  },
+  "voteList": [
+    {
+      "name": "Mercury",
+      "emoji": "🪨"
+    },
+    {
+      "name": "Venus",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Earth",
+      "emoji": "🌍"
+    },
+    {
+      "name": "Mars",
+      "emoji": "🔴"
+    },
+    {
+      "name": "Jupiter",
+      "emoji": "🌀"
+    },
+    {
+      "name": "Saturn",
+      "emoji": "💍"
+    },
+    {
+      "name": "Uranus",
+      "emoji": "🔵"
+    },
+    {
+      "name": "Neptune",
+      "emoji": "🌊"
+    }
+  ],
+  "footer": {
+    "heading": "Thanks for hopping with me! 🚀",
+    "body": "I hope you loved learning about all the planets as much as I do! Space is the most amazing thing ever. Keep looking up at the stars — the universe is waiting for you! 🌌✨",
+    "items": [
+      "Made with 💜 by a kid who really loves space",
+      "All planet facts are real — go check them out in a space book!",
+      "Planet Hop 🪐"
+    ]
+  },
+  "trip": {
+    "badge": "Journey Times",
+    "title": "How Long Would the Trip Take?",
+    "subtitle": "Travelling at the speed of a space shuttle (28,000 km/h), here is how long it would take to reach each planet from Earth.",
+    "speedLabel": "Speed:",
+    "byShuttle": "by shuttle",
+    "funNote": "Fun fact: the New Horizons probe, the fastest spacecraft ever launched, still took 9.5 years to reach Pluto. Space is really, really big!"
+  },
+  "cta": {
+    "title": "Ready to Explore the Universe?",
+    "subtitle": "Scroll back up and take another look at the planets. There is always something new to discover out there.",
+    "button": "Back to the Planets"
+  }
+}
